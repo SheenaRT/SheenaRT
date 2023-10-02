@@ -9,6 +9,18 @@
 
 - ⚡ Fun fact **I swam with a whale shark in Ningaloo Reef 🌏**
 
+#### My Journey:
+
+- 📚 From legal secretary to software developer, my journey in the tech world has been an incredible adventure (and a tough one!). I'm passionate about coding, constantly seeking new projects to challenge myself and improve my skills.
+
+#### My Interests:
+
+- 📖 When I'm not coding, you'll find me lost in a good book. Specifically, I enjoy books on psychology and understanding the human brain.
+
+- 🎵 Music - I love discovering new artists and genres. My favourite songs are still the ones I used to listen to growing up.
+
+- ✈️ Traveling - I'm always on the lookout for my next destination. I currently have more than 30+ places to see on my bucket list.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sheena-thomas-592860124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheena-thomas-592860124" height="30" width="40" /></a>
