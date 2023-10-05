@@ -17,8 +17,6 @@
 
 - 📖 When I'm not coding, you'll find me lost in a good book. Specifically, I enjoy books on psychology and understanding the human brain.
 
-- 🎵 Music - I love discovering new artists and genres. My favourite songs are still the ones I used to listen to growing up.
-
 - ✈️ Traveling - I'm always on the lookout for my next destination. I currently have more than 30+ places to see on my bucket list.
 
 <h3 align="left">Connect with me:</h3>
