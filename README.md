@@ -15,7 +15,7 @@
 
 #### My Interests:
 
-- 📖 When I'm not coding, you'll find me lost in a good book. Specifically, I enjoy books on psychology and understanding the human brain.
+- 📖 When I'm not coding, you'll find me lost in a good book. I mostly enjoy books on psychology and understanding the human brain.
 
 - ✈️ Traveling - I'm always on the lookout for my next destination. I currently have more than 30+ places to see on my bucket list.
 
